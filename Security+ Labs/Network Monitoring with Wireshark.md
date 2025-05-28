@@ -40,13 +40,14 @@ To capture and analyze network packets using Wireshark, understand traffic types
 
 ## 📸 Screenshots
 
-1. ![Main View] () 
+1. ![Main View](https://github.com/SindiswaFezile/Cybersecurity-Portfolio-/blob/main/wireshark-main.png?raw=true) 
    _Wireshark with filters applied_
 
-2. **TLS Packet Detail**  
+2. ![TLS Client Hello](https://github.com/SindiswaFezile/Cybersecurity-Portfolio-/blob/main/tls-client-hello-2.png?raw=true)  
    _Client Hello expanded to show `Server Name: www.google.com`_
 
-*(Add screenshots here if GitHub supports it, or link them from an `assets/` folder)*
+3. ![Interesting Packet](https://github.com/SindiswaFezile/Cybersecurity-Portfolio-/blob/main/interesting-packet-2.png?raw=true)
+   _No unencrypted data found due to HTTPS
 
 ---
 
