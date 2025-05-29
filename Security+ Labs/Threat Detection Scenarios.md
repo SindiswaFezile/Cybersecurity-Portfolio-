@@ -30,8 +30,8 @@ In this lab, I reviewed real-world threat detection logs and simulated alerts to
 
 ## 📸 Screenshots
 
-1. ![SSH Alert](../assets/ssh-alert.png)  
-2. ![Firewall Block](../assets/firewall-block.png)
+1. ![Simulated Terminal](https://github.com/SindiswaFezile/Cybersecurity-Portfolio-/blob/main/ssh-alert.png)
+2. ![Brute-force Alertt](https://github.com/SindiswaFezile/Cybersecurity-Portfolio-/blob/main/firewall-block.png)
 
 ---
 
