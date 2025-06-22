@@ -12,7 +12,7 @@ Analyze a PCAP to detect signs of DNS poisoning and possible cleartext credentia
 - `ftp or http`
 
 ## 📸 Screenshots:
-1. ![DNS Spoofing Detection](../assets/wireshark-dns-alert.png)
+1. ![DNS Spoofing Detection]([../assets/wireshark-dns-alert.png](https://github.com/SindiswaFezile/Cybersecurity-Portfolio-/blob/main/Network%20Analysis/wireshark-dns-alert.PNG)
 2. ![Cleartext Password Detected](../assets/wireshark-password-leak.png)
 
 ## 🧠 Findings:
